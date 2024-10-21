@@ -1,0 +1,15 @@
+message,label
+Rainy Hot High FALSE No,neg
+Rainy Hot High TRUE No,neg
+Overcast Hot High FALSE Yes,pos
+Sunny Mild High FALSE Yes,pos
+Sunny Cool Normal FALSE Yes,pos
+Sunny Cool Normal TRUE No,neg
+Overcast Cool Normal TRUE Yes,pos
+Rainy Mild High FALSE No,neg
+Rainy Cool Normal FALSE Yes,pos
+Sunny Mild Normal FALSE Yes,pos
+Rainy Mild Normal TRUE Yes,pos
+Overcast Mild High TRUE Yes,pos
+Overcast Hot Normal FALSE Yes,pos
+Sunny Mild High TRUE No,neg
